@@ -19,9 +19,9 @@ This process yielded 7000 protein fragments from the plant data subset, with 350
 # Train model: We use Google colab pro buid this model
   -  Cross validation: CV_CBILSuccSite.ipynb
   -  Train model: Train_CBILSuccSite.ipynb.
-    +  Save and name model as Suci_CNN_BiLSTM.h5.
-    +  Use Suci_CNN_BiLSTM.h5 in the saved_folder for predicting.
-  -  Independent test and predict: CBILSuccSite_predict.ipynb
+  + Save and name the trained model as LBiPlantUbi.h5
+  + Use LBiPlantUbi.h5 in the saved_folder for predicting
+- Independent test and predict: CBILSuccSite_predict.ipynb
 
 # Contact
 Please feel free to contact us if you need any help: nvnui@ictu.edu.vn
