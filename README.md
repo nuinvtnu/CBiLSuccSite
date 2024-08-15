@@ -1,6 +1,8 @@
 # CBiLSuccSite
 
-CBiLSuccSite: A novel approach for the prediction of succinylation sites based on a hybrid deep learning model and word embedding features of protein.
+CBiLSuccSite: A Hybrid Deep Learning Model for Succinylation Sites Prediction.
+
+In an attempt to thoroughly understand and improve the efficiency of predicting protein succinylation sites, we propose a hybrid deep learning model called CBiLSuccSite, which combines Convolutional Neural Networks (CNN) and Bidirectional Long Short-Term Memory (Bi-LSTM) networks. Our model leverages word embedding features of proteins, enabling it to capture complex patterns and dependencies in protein sequences. Unlike previous models, our approach does not require manual feature extraction; instead, we use a word embedding layer to automatically discover the features of protein language.
 
 # Requirement
 - Google Colab Pro
