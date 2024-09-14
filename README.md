@@ -15,11 +15,11 @@ In order prepare for training and testing dataset, the obtained dataset is then 
 -  Testing set 2: 124 proteins (254 positive and 254 negative samples)
 
 # Train model: We use Google colab pro buid the model
-  -  Cross validation: CV_CBiLSuccSite.ipynb
-  -  Train model: Train_CBiLSuccSite.ipynb
-    +  Save and name the trained model as Suci_CNN_BiLSTM.h5;    
-    +  Using the saved model Suci_CNN_BiLSTM.h5 (in the saved_folder) for learning and evaluating.
-  - Independent test and predict: CBiLSuccSite_predict.ipynb
+  +  Cross validation: CV_CBiLSuccSite.ipynb
+  +  Train model: Train_CBiLSuccSite.ipynb
+    -  Save and name the trained model as Suci_CNN_BiLSTM.h5;    
+    -  Using the saved model Suci_CNN_BiLSTM.h5 (in the saved_folder) for learning and evaluating.
+  + Independent test and predict: CBiLSuccSite_predict.ipynb
 
 # Contact
 Please feel free to contact us if you need any help: nvnui@ictu.edu.vn
